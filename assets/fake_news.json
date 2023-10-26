@@ -1,0 +1,33 @@
+[
+    {
+      "title": "Aumento Significativo del Bitcoin",
+      "description": "A partir del domingo 29 de septiembre la moneda a conseguido un alza del 43% luego de que se disparara la guerra entre Israel y hamas, los analistas no entienden la relacion entre lo que ocurre en oriente medio y la criptomoneda",
+      "imageUrl": "https://www.criptonoticias.com/wp-content/uploads/2023/02/criptomonedas-top-suben-precio-1140x570.jpg",
+      "likes": 3
+    },
+    {
+      "title": "El precio de Bitcoin alcanza un nuevo récord",
+      "description": "El precio de Bitcoin superó los $100,000 por primera vez, marcando un hito histórico en el mercado de criptomonedas. Este nuevo récord ha generado un renovado interés en las inversiones en criptoactivos, con analistas señalando un aumento en la adopción institucional como uno de los factores clave detrás de este crecimiento. Los expertos también especulan que este avance podría impulsar una ola de interés renovado en otros activos digitales importantes.",
+      "imageUrl": "https://www.criptonoticias.com/wp-content/uploads/2023/08/criptomonedas-dominaran-mercado-5-anos-1140x570.jpg",
+      "likes": 35
+    },
+    {
+      "title": "Nueva regulación sobre criptomonedas anunciada por el gobierno",
+      "description": "El gobierno ha anunciado una nueva regulación sobre el uso de criptomonedas en un esfuerzo por aumentar la transparencia y prevenir actividades ilegales. La regulación incluye requisitos más estrictos para las plataformas de intercambio de criptomonedas, así como medidas para combatir el lavado de dinero y la evasión fiscal. Los expertos del sector están evaluando el impacto potencial de estas nuevas regulaciones en el mercado de criptoactivos y en la adopción generalizada de las criptomonedas.",
+      "imageUrl": "https://www.criptonoticias.com/wp-content/uploads/2020/12/regulacion-criptomonedas.jpg",
+      "likes": 9
+    },
+    {
+        "title": "Importante hackeo a una importante bolsa de criptomonedas",
+        "description": "Se informa de un importante hackeo a una de las principales bolsas de criptomonedas, que resultó en el robo de millones de dólares en varios tipos de criptoactivos. La bolsa confirmó la violación de seguridad y declaró que está trabajando con expertos en ciberseguridad y autoridades pertinentes para abordar el incidente. Este último hackeo ha generado preocupaciones renovadas sobre la seguridad de los activos digitales y ha reavivado el debate sobre las medidas de seguridad y protección de datos en el mundo de las criptomonedas.",
+        "imageUrl": "https://www.criptonoticias.com/wp-content/uploads/2022/08/hackeo-criptomonedas-1140x570.jpg",
+        "likes": 7
+      },
+      {
+        "title": "Bitcoin tuvo uno de los impulsos falsos más importantes de la historia",
+        "description": "El trader estima que, cuando se aprueben los ETF de bitcoin spot, el resultado en el mercado será muy diferente al ocurrido tras su fake news.",
+        "imageUrl": "https://www.criptonoticias.com/wp-content/uploads/2023/08/criptomonedas-subida-fake-news.jpg",
+        "likes": 10
+      }
+  ]
+  
