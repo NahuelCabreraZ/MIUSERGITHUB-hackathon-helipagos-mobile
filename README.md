@@ -1,16 +1,18 @@
-# helipagos
+# MIUSERGITHUB-hackathon-helipagos-mobile
+## Repositorio Publico con la entrega del proyecto.
 
-A new Flutter project.
+Pasos para la instalacion de la app:
+1.- clonar el repositorio en una carpeta vacia.  
+2.- Abrir el proyecto en un IDE como VScode.   
+3.- Ejecturar el comando en la terminal del directorio raiz de tu proyecto: "flutter doctor" (para verificar las dependencias).  
+4.- Ejecutar luego "flutter build apk".  
+5.- Luego de ejecutar build apk, debería aparecerte en la carpeta "/build/app/outputs/flutter-apk/app-release.apk" La apk instalable.  
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Pasos para debug:  
+1.- clonar el repositorio en una carpeta vacia.   
+2.- Abrir el proyecto en un IDE como VScode.  
+3.- Habilitar las opciones de desarrollador en tu telefono android.  
+4.- Dentro de las opciones de desarrollador habilitar las opciones de depuracion via usb.  
+5.- Conectar el dispositivo android via usb.  
+6.- En tu Terminal ejecutar "flutter run" (si tu dispositivo fue reconocido en la parte inferior derecha).  
+7.- Asegurate de tener instalados los Sdks necesarios para el reconocimiento del dispositivo fisico.  
