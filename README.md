@@ -17,3 +17,7 @@ Pasos para debug:
 5.- Conectar el dispositivo android via usb.  
 6.- En tu Terminal ejecutar "flutter run" (si tu dispositivo fue reconocido en la parte inferior derecha).  
 7.- Asegurate de tener instalados los Sdks necesarios para el reconocimiento del dispositivo fisico.  
+
+
+# En Windows Device o en Web Device se muestran las pantallas de noticias en homepage
+# No así en el android, no detecta el fake_news.json
